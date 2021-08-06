@@ -12,8 +12,8 @@
 	pessoa1.cargo   = "Analista Jr";
 	pessoa1.salario = 1000;
 	
-	pessoa2.nome = "Leticia";
-	pessoa2.cargo = "Tecnico";
+	pessoa2.nome    = "Leticia";
+	pessoa2.cargo   = "Tecnico";
 	pessoa2.salario = 500;
 	
 	
