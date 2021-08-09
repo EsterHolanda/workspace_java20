@@ -10,6 +10,12 @@ public class Salario {
 	f2 = new Funcionarios();
 	f3 = new Funcionarios();
 	
+	// Funcionarios f1, f2, f3;
+	// f1 = new Funcionarios(6654, "Marcela Paive", "marcela@banco.com.br", 3500,00);
+	// f2 = new Funcionarios(5433, "Bruno Fernandes", "bruno@banco.com.br", 1600,00);
+	// f3 = new Funcionarios(4433, "Bianca Lima", "bianca@banco.com.br", 5000,00);
+	
+	
 	f1.setFuncional(6654);
 	f1.setNome("Marcela Paiva");
 	f1.setEmail("marcela@banco.com.br");

@@ -6,6 +6,15 @@ public class Funcionarios {
 	private String email;
 	private double salario;
 	
+	//vou criar um método específico, que só pode ser chamado no momento do New...
+	//este metodo é chamado construtor e serve geralmente para inicializar valores no objeto
+	
+	//public Funcionarios(int funcional, String nome, String email, double salario)
+	// this.funcional - funcional;
+	// this.nome = nome;
+	// this.email = email;
+	// this.salario = salario;
+	
 	public String exibir() {
 		return "Funcional: "+funcional+" | Nome: "+nome+ " | E-mail: "+email+ " | Salarário Atual: " +salario+ "| Imposto Devido: "+calcularImposto();
 	}
